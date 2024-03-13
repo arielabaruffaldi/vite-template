@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"feature1.text1\":\"Some text.\"}");
